@@ -36,7 +36,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "ahmednasir91/apidoc-core": "~0.5.0",
+    "apidoc-core": "ahmednasir91/apidoc-core",
     "fs-extra": "~0.26.2",
     "lodash": "~3.10.1",
     "markdown-it": "^5.0.2",
